@@ -33,6 +33,8 @@ are more likely to be installed on a system) instead of MCRYPT.
 	+ Reverse Shell
 	+ Bind Shell
 	+ p0wny Shell
-	+ Cancerous, uncontrolled replication (Drive fill)
+	+ uncontrolled replication (Drive fill)
 	+ Dank Memez
+	+ Memory eating (playing with initmem levels)
+	+ uncontrolled service creation (fork bomb? reboot repeat?)
 	+ etc...
