@@ -27,7 +27,7 @@ A variant of the 3rd script that uses PHP's OPENSSL modules (which
 are more likely to be installed on a system) instead of MCRYPT.
 
 
-## r0t.php: 	==(TBC)==
+## r0t.php: 	==(Work In Progress)==
  -- My personal variant of the 4th script, in which the program will produce a number 
  -- of functions based on the options it has planted, which could include:
 	+ Reverse Shell
